@@ -24,7 +24,7 @@
 	
 <section class="brand_details_banner">
 	<div class="row">
-		  <img src="images/brand_details/banner.jpg" class="img-responsive brand_banner" style="width:100%;" />
+		  <img src="images/brand_details/banner.jpg" class="img-responsive brand_banner" style="width:100%; " />
 		  <img src="images/brand/esta.png" class="img-responsive brand_logo" />
 		  <a href="javascript:void(0);"><div class="brand_details_enquiry">Enquiry Now</div></a>
 	</div>
