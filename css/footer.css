@@ -1,0 +1,27 @@
+footer {
+    height: 200px;
+    overflow: hidden;
+}
+.ft-center h4 {
+    margin: 0px;
+    font-size: 16px;
+    padding-bottom: 11px;
+    padding-top: 27px;
+}
+.ft-center {
+    color: #fff;
+    text-align: center;
+    padding-bottom: 13px;
+    background: #111111;
+}
+.social-ico ul {
+    margin: 26px 0px 0px 0px;
+    padding: 0px;
+}
+.social-ico ul li  a img:hover{
+  opacity:0.7;
+}
+.social-ico ul li {
+    display: inline;
+    padding: 0px 17px;
+}
